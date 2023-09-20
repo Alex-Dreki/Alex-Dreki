@@ -5,7 +5,9 @@
  
 - I am currently interested in insights analytics within gaming 🎮. I also have interests in 🧠 psychology, behavior, and it's quantifiable impact on people :busts_in_silhouette::busts_in_silhouette:
 
-- I am a masters of science in business analytics student at the University of Notre Dame. My main focuses are :computer: machine learning, optimization and :book: data storytelling! 
+- I am a masters of science in business analytics graduate from the University of Notre Dame.
+- 
+- My main focuses are :computer: machine learning, optimization and :book: data storytelling! 
 
 - You can reach out to me about anything at eeevans33@gmail.com, [![Linkedin Badge](https://img.shields.io/badge/-Alex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alex-evans-data/) or add me on discord at Cryptic#6191 !
 
